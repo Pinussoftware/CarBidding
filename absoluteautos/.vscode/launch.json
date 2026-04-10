@@ -5,7 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Server",
-            "program": "${workspaceFolder}/absoluteautos/server.js",
+            "program": "${workspaceFolder}/server.js",
             "skipFiles": [
                 "<node_internals>/**"
             ]
